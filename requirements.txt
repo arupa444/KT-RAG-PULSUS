@@ -5,3 +5,11 @@ langchain-community
 
 pypdf
 pymupdf
+
+
+# sentence maker
+sentence-transformers
+
+#vector db
+faiss-cpu
+chromadb
